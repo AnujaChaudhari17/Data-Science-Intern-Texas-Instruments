@@ -25,5 +25,3 @@
 | **Visualizations & Protocol** | Apache Superset, Model Context Protocol (MCP) |
 
 ---
-
-## System Architecture
